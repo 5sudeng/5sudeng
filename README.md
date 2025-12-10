@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.sh/github.com/5sudeng.svg?style=flat-square&label=🔥 Hits Counter&labelColor=3C3C3C&color=F27BBE)](https://hits.sh/github.com/5sudeng/)
+[![Hits](https://hits.sh/github.com/5sudeng.svg?style=flat-square&label=🔥%20Hits%20Counter&labelColor=3C3C3C&color=F27BBE)](https://hits.sh/github.com/5sudeng/)
