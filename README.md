@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5sudeng&count_bg=%23A6EDEE&title_bg=%23FAB0B0&icon=&icon_color=%23E7E7E7&title=5sudeng&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.sh/github.com/5sudeng.svg)](https://hits.sh/github.com/5sudeng/)
