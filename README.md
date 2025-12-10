@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.sh/github.com/5sudeng.svg)](https://hits.sh/github.com/5sudeng/)
+https://hits.sh/github.com/5sudeng.svg?color=ff69b4
